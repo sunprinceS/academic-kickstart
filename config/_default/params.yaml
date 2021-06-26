@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: forest
+  theme_night: forest
   font: minimal
   font_size: L
 
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Team player. Enthusiastic machine learning researcher and software engineer.'
+    twitter: 'sunprinceS_0822'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Jui-Yang Hsu. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -61,18 +61,19 @@ features:
   syntax_highlighter:
     enable: true
     extra_languages:
-      - r
-      - latex
+      - cpp
+      - python
+      - javascript
   math:
-    enable: false
+    enable: true
   diagram:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/sunprinceS/portfolio'
     content_dir: content
-    branch: master
+    branch: JYH-CV-2023
   avatar:
     gravatar: false
     shape: circle
@@ -91,7 +92,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
