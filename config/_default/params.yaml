@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: ocean
+theme: forest
 day_night: true
 font: ''
 font_size: L
@@ -23,18 +23,19 @@ twitter: ''
 email: sunprince12014@gmail.com
 phone:
 address:
-  street: No. 1, Sec. 4, Roosevelt Rd., Da’an Dist.
+  street: R531, EE BuildingⅡ, Dept. of Electrical Engineering, NTU <br/>
+   No. 1, Sec. 4, Roosevelt Rd., Da’an Dist.
   city: Taipei City
   region:
-  postcode: '106'
+  postcode: '106319'
   country: Taiwan
   country_code: TW
 coordinates:
-  latitude: '25.0173'
-  longitude: '121.5398'
-directions: 
+  latitude:
+  longitude:
+directions:
 office_hours:
-appointment_url: 
+appointment_url:
 contact_links:
 # Site header
 
@@ -125,7 +126,7 @@ search:
 map:
   provider: 'Mapnik'
   api_key: ''
-  zoom: 15
+  zoom: 11
 marketing:
   google_analytics: ''
   google_tag_manager: ''

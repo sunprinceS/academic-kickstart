@@ -33,6 +33,8 @@ experience:
         * Implemented a unified multi-vertical document understanding model <br /> for variaous kinds of documents' named entity recognition (NER)
         * Migrated and refactored model training to [Pytorch Lightning](https://pytorch-lightning.readthedocs.io/en/latest/) for much faster development and maintenance
         * Migrated model training to the official AzureML training pipeline
+
+        <a class="badge badge-light">Multi-task Learning</a> <a class="badge badge-light">CI/CD</a>
   - title: Graduate Student & Network Adminstrator
     company: Speech Processing & Machine Learning Lab, <br/>National Taiwan University (NTU)
     company_url: 'https://www.ntu.edu.tw/english/index.html'
@@ -65,6 +67,8 @@ experience:
     description: |2-
       * Researched on deep generative model to develop algorithms improving keyboard experience of users
       * The research results have been published in iOS 13 (2019) and [US patent](https://patents.google.com/patent/US20200379640A1/en?oq=US20200379640A1) (2020)
+
+      <a class="badge badge-light">Generative Modeling</a> <a class="badge badge-light">Domain Adaptation</a>
   - title: Exchange Student
     company: Kungliga Tekniska högskolan (KTH)
     company_url: 'https://www.kth.se/en'
@@ -74,8 +78,9 @@ experience:
     date_end: '2018-06-02'
     description: |2-
       Exchanged to the department of Comuter Science & Communication (CSC)
-      * Travelling in Europe [[link]](https://sunprinces.github.io/photography/) 
+      * Travelling in Europe [[link]](outdoor-activities/world-travelling) 
       * Life murmur [[link]](https://sunprincelife.wordpress.com/)
+      * Travelling gallery [[link]](https://sunprinces.github.io/photography/)
 
   - title: Speech Research Intern
     company: Delta Research Center (DRC)
@@ -88,6 +93,8 @@ experience:
       * Researched on end-to-end speech recognition based on CTC
       * Reduced 3% CER on the corpus held by DRC, comparable to the original system
       * Migrated acoustic modeling to Tensorflow for faster development <br /> (building the interface between Kaldi & Tensorflow)
+
+      <a class="badge badge-light">Seq2Seq</a>
   - title: Undergraduate Student
     company: National Taiwan University (NTU)
     company_url: 'https://www.ntu.edu.tw/english/index.html'
