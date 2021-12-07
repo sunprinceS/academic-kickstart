@@ -7,7 +7,7 @@
     <description>Tony Hsu</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2018-present} Jui-Yang Hsu</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sunprinces.github.io/portfolio/media/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_2.png</url>
+      <url>https://sunprinces.github.io/portfolio/media/icon_hu4f581254fadf68aa184da7aebd6ec37c_45124_512x512_fill_lanczos_center_3.png</url>
       <title>Tony Hsu</title>
       <link>https://sunprinces.github.io/portfolio/</link>
     </image>
@@ -180,7 +180,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;h3 id=&#34;武陵二秀&#34;&gt;武陵二秀&lt;/h3&gt;
 &lt;div align=&#34;center&#34;&gt;
 
@@ -248,7 +248,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;h3 id=&#34;北大武&#34;&gt;北大武&lt;/h3&gt;
 &lt;div align=&#34;center&#34;&gt;
 
@@ -311,7 +311,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;h3 id=&#34;戒茂斯上嘉明湖&#34;&gt;戒茂斯上嘉明湖&lt;/h3&gt;
 &lt;div align=&#34;center&#34;&gt;
 
@@ -379,7 +379,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;h3 id=&#34;合歡群峰&#34;&gt;合歡群峰&lt;/h3&gt;
 &lt;div align=&#34;center&#34;&gt;
 
@@ -457,7 +457,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;h3 id=&#34;中橫四辣---中辣&#34;&gt;中橫四辣 - 中辣&lt;/h3&gt;
 &lt;div align=&#34;center&#34;&gt;
 
@@ -520,7 +520,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;h3 id=&#34;郡大西巒&#34;&gt;郡大西巒&lt;/h3&gt;
 &lt;div align=&#34;center&#34;&gt;
 
@@ -588,7 +588,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;h3 id=&#34;奇萊主北&#34;&gt;奇萊主北&lt;/h3&gt;
 &lt;div align=&#34;center&#34;&gt;
 
@@ -656,7 +656,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;h3 id=&#34;合歡北西&#34;&gt;合歡北西&lt;/h3&gt;
 &lt;div align=&#34;center&#34;&gt;
 
@@ -719,7 +719,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;p&gt;&lt;sub&gt;&lt;sup&gt;Some photos are credited to the awesome teammate and photographer Otus &lt;a href=&#34;https://www.instagram.com/otus_0623/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;→ Fllow him on Instgram&lt;/a&gt;&lt;/sup&gt;&lt;/sub&gt;&lt;/p&gt;
 </description>
     </item>
@@ -927,7 +927,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;h1 id=&#34;縱走&#34;&gt;縱走&lt;/h1&gt;
 
 
@@ -1052,7 +1052,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;br /&gt;
 &lt;h1 id=&#34;湖景&#34;&gt;湖景&lt;/h1&gt;
 
 
@@ -2267,15 +2267,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
