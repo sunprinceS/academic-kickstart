@@ -21,7 +21,7 @@
 
 
 &lt;div class=&#34;progress&#34;&gt;
-  &lt;div class=&#34;progress-bar progress-bar-striped progress-bar-animated bg-info&#34; role=&#34;progressbar&#34; style=&#34;width: 19%&#34; aria-valuenow=&#34;10&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34;&gt;19%&lt;/div&gt;
+  &lt;div class=&#34;progress-bar progress-bar-striped progress-bar-animated bg-info&#34; role=&#34;progressbar&#34; style=&#34;width: 23%&#34; aria-valuenow=&#34;10&#34; aria-valuemin=&#34;0&#34; aria-valuemax=&#34;100&#34;&gt;23%&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;br /&gt;&lt;/p&gt;
@@ -81,12 +81,12 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;East Peak of Xue Mountain (雪山東峰)&lt;/td&gt;
+&lt;td&gt;雪山東峰 (East Peak of Xue Mountain)&lt;/td&gt;
 &lt;td&gt;3201m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/06&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Main Peak of Xue Mountain (雪山主峰)&lt;/td&gt;
+&lt;td&gt;雪山主峰 (Main Peak of Xue Mountain)&lt;/td&gt;
 &lt;td&gt;3886m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/06&lt;/td&gt;
 &lt;/tr&gt;
@@ -149,12 +149,12 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;South Peak of Qilai Mountain (奇萊南峰)&lt;/td&gt;
+&lt;td&gt;奇萊南峰 (South Peak of Qilai Mountain)&lt;/td&gt;
 &lt;td&gt;3358m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/08&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Nanhua Mountain (南華山)&lt;/td&gt;
+&lt;td&gt;南華山 (Nanhua Mountain)&lt;/td&gt;
 &lt;td&gt;3184m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/08&lt;/td&gt;
 &lt;/tr&gt;
@@ -217,12 +217,12 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Tao Mountain (桃山)&lt;/td&gt;
+&lt;td&gt;桃山 (Tao Mountain)&lt;/td&gt;
 &lt;td&gt;3325m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/09&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Kalaye Mountain (喀拉業山)&lt;/td&gt;
+&lt;td&gt;喀拉業山 (Kalaye Mountain)&lt;/td&gt;
 &lt;td&gt;3133m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/09&lt;/td&gt;
 &lt;/tr&gt;
@@ -285,7 +285,7 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;North Dawu Mountain (北大武山)&lt;/td&gt;
+&lt;td&gt;北大武山 (North Dawu Mountain)&lt;/td&gt;
 &lt;td&gt;3092m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/10&lt;/td&gt;
 &lt;/tr&gt;
@@ -348,12 +348,12 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Sancha Mountain (三叉山)&lt;/td&gt;
+&lt;td&gt;三叉山 (Sancha Mountain)&lt;/td&gt;
 &lt;td&gt;3496m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/10&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Xiangyang Mountain (向陽山)&lt;/td&gt;
+&lt;td&gt;向陽山 (Xiangyang Mountain)&lt;/td&gt;
 &lt;td&gt;3603m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/10&lt;/td&gt;
 &lt;/tr&gt;
@@ -416,22 +416,22 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Main Peak of Hehuan Mountain (合歡主峰)&lt;/td&gt;
+&lt;td&gt;合歡主峰 (Main Peak of Hehuan Mountain)&lt;/td&gt;
 &lt;td&gt;3417m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/11, 2020/12&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;North Peak of Hehuan Mountain (合歡北峰)&lt;/td&gt;
+&lt;td&gt;合歡北峰 (North Peak of Hehuan Mountain)&lt;/td&gt;
 &lt;td&gt;3422m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/11, 2020/12&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;East Peak of Hehuan Mountain (合歡東峰)&lt;/td&gt;
+&lt;td&gt;合歡東峰 (East Peak of Hehuan Mountain)&lt;/td&gt;
 &lt;td&gt;3421m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/12&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Shimen Mountain (石門山)&lt;/td&gt;
+&lt;td&gt;石門山 (Shimen Mountain)&lt;/td&gt;
 &lt;td&gt;3237m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2020/12&lt;/td&gt;
 &lt;/tr&gt;
@@ -494,7 +494,7 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Bilu Mountain (畢祿山)&lt;/td&gt;
+&lt;td&gt;畢祿山 (Bilu Mountain)&lt;/td&gt;
 &lt;td&gt;3371m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2021/02&lt;/td&gt;
 &lt;/tr&gt;
@@ -557,12 +557,12 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Xiluan Mountain (西巒大山)&lt;/td&gt;
+&lt;td&gt;西巒大山 (Xiluan Mountain)&lt;/td&gt;
 &lt;td&gt;3081m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2021/03&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Guntai Mountain (郡大山)&lt;/td&gt;
+&lt;td&gt;郡大山 (Guntai Mountain)&lt;/td&gt;
 &lt;td&gt;3265m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2021/03&lt;/td&gt;
 &lt;/tr&gt;
@@ -625,12 +625,12 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Mount Qilai North Peak (奇萊北峰)&lt;/td&gt;
+&lt;td&gt;奇萊北峰 (North Peak of Qilai Mountain)&lt;/td&gt;
 &lt;td&gt;3605m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2021/09&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Mount Qilai Main Peak (奇萊主峰)&lt;/td&gt;
+&lt;td&gt;奇萊主峰 (Main Peak of Qilai Mountain)&lt;/td&gt;
 &lt;td&gt;3559m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2021/09&lt;/td&gt;
 &lt;/tr&gt;
@@ -693,9 +693,87 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;West Peak of Hehuan Mountain (合歡西峰)&lt;/td&gt;
+&lt;td&gt;合歡西峰 (West Peak of Hehuan Mountain)&lt;/td&gt;
 &lt;td&gt;3144m&lt;/td&gt;
 &lt;td style=&#34;text-align:right&#34;&gt;2021/10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;h3 id=&#34;大霸群峰&#34;&gt;大霸群峰&lt;/h3&gt;
+&lt;div align=&#34;center&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-202112_daba&#34; href=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/202112_daba/1.jpg&#34; &gt;
+      &lt;img src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/202112_daba/1_huc48b85fb98f363dc5429c68322416cec_457077_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;1.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-202112_daba&#34; href=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/202112_daba/2.jpg&#34; &gt;
+      &lt;img src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/202112_daba/2_hu3b211c36012792b6bd00241a681ca9fb_381622_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;2.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+    
+    
+    
+    
+    
+    &lt;a data-fancybox=&#34;gallery-202112_daba&#34; href=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/202112_daba/3.jpg&#34; &gt;
+      &lt;img src=&#34;https://sunprinces.github.io/portfolio/portfolio/media/albums/202112_daba/3_hu691fd7f3c6bc30ad8841f56ede0abfd2_422957_0x190_resize_q75_lanczos.jpg&#34; loading=&#34;lazy&#34; alt=&#34;3.jpg&#34; width=&#34;285&#34; height=&#34;190&#34;&gt;
+    &lt;/a&gt;
+  
+
+&lt;/div&gt;&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;div style=&#34;width: 390px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;div style=&#34;width: 210px&#34;&gt;&lt;/div&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;大霸尖山 (Dabajian Mountain)&lt;/td&gt;
+&lt;td&gt;3492m&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2021/12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;小霸尖山 (Xiaobajian Mountain)&lt;/td&gt;
+&lt;td&gt;3418m&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2021/12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;伊澤山 (Yize Mountain)&lt;/td&gt;
+&lt;td&gt;3297m&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2021/12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;加利山 (Jiali Mountain)&lt;/td&gt;
+&lt;td&gt;3112m&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2021/12&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
