@@ -39,7 +39,7 @@ categories:
 
 ---
 
-{{< achievement_progress progress="19" >}}
+{{< achievement_progress progress="23" >}}
 <br />
 
 ### 雪山主東
@@ -47,8 +47,8 @@ categories:
 
 |<div style="width: 390px"></div>           |  |<div style="width: 210px"></div>
 |-------------------------------------------|---------------|-----------------:|
-| East Peak of Xue Mountain (雪山東峰)      | 3201m         | 2020/06
-| Main Peak of Xue Mountain (雪山主峰)      | 3886m         | 2020/06
+|  雪山東峰 (East Peak of Xue Mountain)     | 3201m         | 2020/06
+|  雪山主峰 (Main Peak of Xue Mountain)     | 3886m         | 2020/06
 
 <br/>
 
@@ -58,8 +58,8 @@ categories:
 
 |<div style="width: 390px"></div>           |  |<div style="width: 210px"></div>
 |-------------------------------------------|---------------|-----------------:|
-| South Peak of Qilai Mountain (奇萊南峰)   | 3358m         | 2020/08
-| Nanhua Mountain (南華山)                  | 3184m         | 2020/08
+| 奇萊南峰 (South Peak of Qilai Mountain)   | 3358m         | 2020/08
+| 南華山 (Nanhua Mountain)                  | 3184m         | 2020/08
 
 <br />
 
@@ -68,8 +68,8 @@ categories:
 
 |<div style="width: 390px"></div>           |  |<div style="width: 210px"></div>
 |-------------------------------------------|---------------|-----------------:|
-| Tao Mountain (桃山)                       | 3325m         | 2020/09
-| Kalaye Mountain (喀拉業山)                | 3133m         | 2020/09
+| 桃山 (Tao Mountain)                       | 3325m         | 2020/09
+| 喀拉業山 (Kalaye Mountain)                | 3133m         | 2020/09
 
 <br />
 
@@ -78,7 +78,7 @@ categories:
 
 |<div style="width: 390px"></div>           |  |<div style="width: 210px"></div>
 |-------------------------------------------|---------------|---------------:|
-| North Dawu Mountain (北大武山)            | 3092m         | 2020/10
+| 北大武山 (North Dawu Mountain)            | 3092m         | 2020/10
 
 <br />
 
@@ -87,8 +87,8 @@ categories:
 
 |<div style="width: 390px"></div>           |  |<div style="width: 210px"></div>
 |-------------------------------------------|---------------|--------------------:|
-| Sancha Mountain (三叉山)                  | 3496m         | 2020/10
-| Xiangyang Mountain (向陽山)               | 3603m         | 2020/10
+| 三叉山 (Sancha Mountain)                  | 3496m         | 2020/10
+| 向陽山 (Xiangyang Mountain)               | 3603m         | 2020/10
 
 <br />
 
@@ -97,10 +97,10 @@ categories:
 
 |<div style="width: 390px"></div>           |  |<div style="width: 210px"></div>
 |-------------------------------------------|---------------|-----------------:|
-| Main Peak of Hehuan Mountain (合歡主峰)   | 3417m         | 2020/11, 2020/12
-| North Peak of Hehuan Mountain (合歡北峰)  | 3422m         | 2020/11, 2020/12
-| East Peak of Hehuan Mountain (合歡東峰)   | 3421m         | 2020/12
-| Shimen Mountain (石門山)                  | 3237m         | 2020/12
+| 合歡主峰 (Main Peak of Hehuan Mountain)   | 3417m         | 2020/11, 2020/12
+| 合歡北峰 (North Peak of Hehuan Mountain)  | 3422m         | 2020/11, 2020/12
+| 合歡東峰 (East Peak of Hehuan Mountain)   | 3421m         | 2020/12
+| 石門山 (Shimen Mountain)                  | 3237m         | 2020/12
 
 <br />
 
@@ -109,7 +109,7 @@ categories:
 
 |<div style="width: 390px"></div>           |  |<div style="width: 210px"></div>
 |-------------------------------------------|---------------|-----------------:|
-| Bilu Mountain (畢祿山)                    | 3371m         | 2021/02
+| 畢祿山 (Bilu Mountain)                    | 3371m         | 2021/02
 
 <br />
 
@@ -118,8 +118,8 @@ categories:
 
 |<div style="width: 390px"></div>           |  |<div style="width: 210px"></div>
 |-------------------------------------------|---------------|-----------------:|
-| Xiluan Mountain (西巒大山)                | 3081m         | 2021/03
-| Guntai Mountain (郡大山)                  | 3265m         | 2021/03
+| 西巒大山 (Xiluan Mountain)                | 3081m         | 2021/03
+| 郡大山 (Guntai Mountain)                  | 3265m         | 2021/03
 
 <br />
 
@@ -128,8 +128,8 @@ categories:
 
 |<div style="width: 390px"></div>           |  |<div style="width: 210px"></div>
 |-------------------------------------------|---------------|-----------------:|
-| Mount Qilai North Peak (奇萊北峰)         | 3605m         | 2021/09
-| Mount Qilai Main Peak (奇萊主峰)          | 3559m         | 2021/09
+| 奇萊北峰 (North Peak of Qilai Mountain)   | 3605m         | 2021/09
+| 奇萊主峰 (Main Peak of Qilai Mountain)    | 3559m         | 2021/09
 
 <br />
 
@@ -138,7 +138,19 @@ categories:
 
 |<div style="width: 390px"></div>           |  |<div style="width: 210px"></div>
 |-------------------------------------------|---------------|-----------------:|
-| West Peak of Hehuan Mountain (合歡西峰)   | 3144m         | 2021/10
+| 合歡西峰 (West Peak of Hehuan Mountain)   | 3144m         | 2021/10
+
+<br />
+
+### 大霸群峰
+<div align="center">{{< gallery album="202112_daba" >}}</div>
+
+|<div style="width: 390px"></div>           |  |<div style="width: 210px"></div>
+|-------------------------------------------|---------------|-----------------:|
+| 大霸尖山 (Dabajian Mountain)              | 3492m         | 2021/12
+| 小霸尖山 (Xiaobajian Mountain)            | 3418m         | 2021/12
+| 伊澤山 (Yize Mountain)                    | 3297m         | 2021/12
+| 加利山 (Jiali Mountain)                   | 3112m         | 2021/12
 
 <br />
 
