@@ -18,10 +18,10 @@ bio: Part-time researcher, Full-time human-being
 
 # Interests to show in About widget
 interests:
-- AutoML/ Quantization/ Pruning
+- Distributed System Design
+- ML Model Optimization (AutoTuning, NAS)
 - Meta/ Transfer Learning
-- Speech Processing
-- Natural Language Processing
+- Speech Processing/ NLP
 
 # Education to show in About widget
 education:

@@ -73,7 +73,7 @@ features:
   repository:
     url: 'https://github.com/sunprinceS/portfolio'
     content_dir: content
-    branch: JYH-CV-2022
+    branch: JYH-CV-2023
   avatar:
     gravatar: false
     shape: circle

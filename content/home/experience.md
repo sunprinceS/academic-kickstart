@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer
+    company: MediaTek
+    company_url: 'https://www.mediatek.com/'
+    company_logo: org-Apple
+    location: Hsinchu, Taiwan
+    date_start: '2022-01-03'
+    date_end: ''
+    description: |2-
+      * TBD
+
+      <a class="badge badge-light">Compiler Auto Tuning</a> <a class="badge badge-light">System Design</a><a class="badge badge-light">NAS</a>
+
   - title: Visual Document Intelligence Research Intern
     company: AI & RD Center, Microsoft
     company_url: 'https://www.microsoft.com/zh-tw/abouttaiwan/'

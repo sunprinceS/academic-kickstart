@@ -39,7 +39,7 @@ categories:
 
 ---
 
-{{< achievement_progress progress="23" >}}
+{{< achievement_progress progress="29" >}}
 <br />
 
 ### 雪山主東
@@ -63,7 +63,7 @@ categories:
 
 <br />
 
-### 武陵二秀
+### 武陵二秀 (I)
 <div align="center">{{< gallery album="202009_tao_kalaye" >}}</div>
 
 |<div style="width: 420px"></div>           |  |<div style="width: 240px"></div>
@@ -104,7 +104,7 @@ categories:
 
 <br />
 
-### 中橫四辣 - 中辣
+### 中橫四辣 (I)
 <div align="center">{{< gallery album="202102_bilu" >}}</div>
 
 |<div style="width: 420px"></div>           |  |<div style="width: 240px"></div>
@@ -151,6 +151,36 @@ categories:
 | 小霸尖山 (Xiaobajian Mountain)            | 3418m         | 2021/12
 | 伊澤山 (Yize Mountain)                    | 3297m         | 2021/12
 | 加利山 (Jiali Mountain)                   | 3112m         | 2021/12
+
+<br />
+
+### 武陵二秀 (II) 
+<div align="center">{{< gallery album="202207_pintian_chiyou" >}}</div>
+
+|<div style="width: 420px"></div>           |  |<div style="width: 240px"></div>
+|-------------------------------------------|---------------|-----------------:|
+| 池有山 (Chiyou Mountain)                  | 3301m         | 2022/07
+| 品田山 (Pintian Mountain)                 | 3529m         | 2022/07
+
+<br />
+
+### 中橫四辣 (II)
+<div align="center">{{< gallery album="202207_pingfeng" >}}</div>
+
+|<div style="width: 420px"></div>           |  |<div style="width: 240px"></div>
+|-------------------------------------------|---------------|-----------------:|
+| 屏風山 (PingFeng Mountain)                | 3250m         | 2022/07
+
+<br />
+
+### 南橫三星
+<div align="center">{{< gallery album="202212_nanheng" >}}</div>
+
+|<div style="width: 420px"></div>           |  |<div style="width: 240px"></div>
+|-------------------------------------------|---------------|-----------------:|
+| 關山嶺山(Guanshanling Mountain)           | 3176m         | 2022/12
+| 塔關山 (Taguan Mountain)                  | 3222m         | 2022/12
+| 庫哈諾辛山 (Kuhanuoxin Mountain)          | 3115m         | 2022/12
 
 <br />
 
