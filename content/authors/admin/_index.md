@@ -6,7 +6,7 @@ title: Jui-Yang Hsu
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning <br /> Software Engineer
+role: Research Engineer <br /> Applied Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,9 +18,9 @@ bio: Part-time researcher, Full-time human-being
 
 # Interests to show in About widget
 interests:
-- Distributed System Design
-- ML Model Optimization (AutoTuning, NAS)
-- Meta/ Transfer Learning
+- ML System Design
+- EdgeAI Model Optimization
+- Computer Vision
 - Speech Processing/ NLP
 
 # Education to show in About widget
@@ -74,4 +74,14 @@ email: ""
 highlight_name: true
 ---
 
-Jui-Yang received the M.S. and B.S. degree from National Taiwan University (NTU) in 2018 and 2021.
+**I** am currently a research engineer at MediaTek CAI in Taiwan, with 2+
+years ML-related industry experience through my internships (Apple,
+Microsoft, and Delta) and current role. <br /> **A**s a researcher, I delight in
+acquiring knowledge of new technologies and designing algorithms/models to
+address complex, real-world issues, with a track record of success. <br /> **A**s an
+engineer, I possess practical experience in developing and managing distributed
+computing platforms at both NTU and MediaTek. I am eager to familiarize myself
+with novel tools/frameworks to enhance system robustness and
+maintainability. <br />**I**n addition, I am also a sports enthusiast and an amateur athlete. I am broadly interested in table tennis, hiking, marathon and training!
+
+
